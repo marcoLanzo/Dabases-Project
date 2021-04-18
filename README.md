@@ -9,4 +9,5 @@ The documentation is composed by:
 - Dictionary of data, business rules, class diagram and database's dump made on PostgresSQL.
 
 The communication between application client and database was made using the JPA approach.
+
 The Singleton pattern was implemented to make the connection with Persistence more efficient.
