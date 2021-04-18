@@ -1,4 +1,4 @@
-# Dabases-Project
+# Databases-Project
 
 The main purpose of this project was to build a web application that included import CSV files into the database and manage the visualization of the collected data.
 
